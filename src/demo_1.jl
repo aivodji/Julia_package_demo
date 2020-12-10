@@ -1,5 +1,8 @@
-module demo_1
+module Demo
 
-# Write your package code here.
+include("function_1.jl")
+
+export my_f
+
 
 end

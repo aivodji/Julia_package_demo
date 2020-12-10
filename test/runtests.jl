@@ -1,4 +1,4 @@
-using demo_1
+using Demo
 using Test
 
 @testset "demo_1.jl" begin
